@@ -1,5 +1,5 @@
 services:
-- type: pserv
+- type: web
   name: mysql
   plan: standard
   env: docker
